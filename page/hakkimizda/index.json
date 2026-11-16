@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Fuar",
+    "en": "The fair",
+    "ar": "المعرض"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hakkimizda",
+  "url": "",
+  "path": "hakkimizda",
+  "index": 1,
+  "icon": "info",
+  "desing": {
+    "header": [],
+    "body": [
+      "itzf06",
+      "mr4fvh"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Fuar rakamları ve sponsorlar (kurgusal).",
+    "en": "Fair figures and sponsors (fictional).",
+    "ar": "أرقام المعرض والرعاة (افتراضي)."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Fuar",
+    "en": "The fair",
+    "ar": "المعرض"
+  },
+  "keyword": {
+    "tr": "hakkımızda",
+    "en": "about",
+    "ar": "من نحن"
+  },
+  "text": {},
+  "update": "2026-11-16T22:34:33.493Z",
+  "date": "2026-10-30"
+}

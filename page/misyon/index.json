@@ -1,0 +1,46 @@
+{
+  "id": "misyon",
+  "name": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "description": {
+    "tr": "Misyonumuz",
+    "en": "Our mission",
+    "ar": "مهمتنا"
+  },
+  "keyword": {
+    "tr": "Misyon",
+    "en": "mission, our mission, corporate responsibility",
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+  },
+  "path": "misyon",
+  "icon": "flag",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {
+    "tr": "<h2>Misyonumuz</h2>\n<p>Üreticiyle ziyaretçiyi dört günlük, düzenli ve erişilebilir bir fuarda buluşturmak.</p>",
+    "en": "<h2>Our mission</h2>\n<p>To bring makers and visitors together at a well-run, accessible four-day fair.</p>",
+    "ar": "<h2>مهمتنا</h2>\n<p>جمع المصنّعين والزوار في معرض منظّم ومتاح لمدة أربعة أيام.</p>"
+  },
+  "title": {
+    "tr": "Misyon",
+    "en": "Mission",
+    "ar": "المهمة"
+  },
+  "date": "2026-11-16T22:34:33.128Z",
+  "update": "2026-11-16T22:34:33.527Z",
+  "sablonIzi": "a8a6ac234dced5af",
+  "sablonIziDil": {
+    "en": "3f5f6c628dec679f",
+    "ar": "c861990d3945ecd7"
+  }
+}
