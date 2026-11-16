@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "id": "yf63icz6sf",
+      "name": {
+        "tr": "Program",
+        "en": "Programme",
+        "ar": "البرنامج"
+      },
+      "description": {
+        "tr": "Gün gün fuar programı ve bilet türleri (kurgusal).",
+        "en": "Day-by-day fair programme and ticket types (fictional).",
+        "ar": "برنامج المعرض يومًا بيوم وأنواع التذاكر (افتراضي)."
+      },
+      "path": "hizmetler",
+      "icon": "event",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "yhw0fq",
+          "fysxqj"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Fuar",
+        "en": "The fair",
+        "ar": "المعرض"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "itzf06",
+          "mr4fvh"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Fuar rakamları ve sponsorlar (kurgusal).",
+        "en": "Fair figures and sponsors (fictional).",
+        "ar": "أرقام المعرض والرعاة (افتراضي)."
+      }
+    },
+    {
+      "name": {
+        "tr": "Ulaşım",
+        "en": "Getting here",
+        "ar": "الوصول"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 2,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "qu1y2r",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Bilet gişesi, servis, otopark ve harita.",
+        "en": "Box office, shuttle, parking and map.",
+        "ar": "شباك التذاكر والحافلة وموقف السيارات والخريطة."
+      }
+    }
+  ],
+  "desc": []
+}

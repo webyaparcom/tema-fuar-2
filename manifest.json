@@ -1,0 +1,29 @@
+{
+  "name": "Lonca Expo",
+  "short_name": "Lonca Expo",
+  "description": "Lonca Expo: 15–18 Nisan 2027’de Gaziantep’te Ev & Yaşam Fuarı — mobilya, aydınlatma, ev tekstili ve akıllı ev; geri sayım, gün gün program ve biletler. Demo site; içerik kurgusaldır.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#35C4D6",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

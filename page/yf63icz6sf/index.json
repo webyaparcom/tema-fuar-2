@@ -1,0 +1,40 @@
+{
+  "id": "yf63icz6sf",
+  "name": {
+    "tr": "Program",
+    "en": "Programme",
+    "ar": "البرنامج"
+  },
+  "description": {
+    "tr": "Gün gün fuar programı ve bilet türleri (kurgusal).",
+    "en": "Day-by-day fair programme and ticket types (fictional).",
+    "ar": "برنامج المعرض يومًا بيوم وأنواع التذاكر (افتراضي)."
+  },
+  "keyword": {
+    "tr": "fuar programı, bilet",
+    "en": "fair programme, tickets",
+    "ar": "برنامج المعرض، تذاكر"
+  },
+  "path": "hizmetler",
+  "icon": "event",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "yhw0fq",
+      "fysxqj"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Program",
+    "en": "Programme",
+    "ar": "البرنامج"
+  },
+  "date": "2026-11-16T22:34:33.465Z",
+  "update": "2026-11-16T22:34:33.481Z"
+}

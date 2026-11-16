@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Lonca Expo: 15–18 Nisan 2027’de Gaziantep’te Ev & Yaşam Fuarı — mobilya, aydınlatma, ev tekstili ve akıllı ev; geri sayım, gün gün program ve biletler. Demo site; içerik kurgusaldır.",
+    "en": "Lonca Expo: the Home & Living Fair in Gaziantep on 15–18 April 2027 — furniture, lighting, home textiles and smart home; countdown, day-by-day programme and tickets. Demo site; content is fictional.",
+    "ar": "لونجا إكسبو: معرض البيت والمعيشة في غازي عنتاب من 15 إلى 18 أبريل 2027 — أثاث وإضاءة ومنسوجات منزلية ومنزل ذكي؛ عدّ تنازلي وبرنامج يومي وتذاكر. موقع تجريبي؛ المحتوى افتراضي."
+  },
+  "keyword": {
+    "tr": "fuar, ev ve yaşam fuarı, mobilya fuarı, fuar bileti, fuar programı, Gaziantep",
+    "en": "trade fair, home and living fair, furniture fair, fair tickets, fair programme, Gaziantep",
+    "ar": "معرض، معرض البيت والمعيشة، معرض الأثاث، تذاكر المعرض، برنامج المعرض، غازي عنتاب"
+  },
+  "category": "Kurumsal",
+  "name": "Lonca Expo",
+  "domain": "fuar-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "rubik",
+    "heading": "barlow-condensed",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#35C4D6",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "1px",
+    "--mx-radius-md": "2px",
+    "--mx-radius-lg": "3px",
+    "--mx-radius-xl": "4px"
+  },
+  "icon": "icon.png"
+}

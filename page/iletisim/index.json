@@ -1,0 +1,47 @@
+{
+  "name": {
+    "tr": "Ulaşım",
+    "en": "Getting here",
+    "ar": "الوصول"
+  },
+  "status": "play",
+  "category": "",
+  "id": "iletisim",
+  "url": "",
+  "path": "iletisim",
+  "index": 2,
+  "icon": "call",
+  "desing": {
+    "header": [],
+    "body": [
+      "qu1y2r",
+      "k8mp01"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Bilet gişesi, servis, otopark ve harita.",
+    "en": "Box office, shuttle, parking and map.",
+    "ar": "شباك التذاكر والحافلة وموقف السيارات والخريطة."
+  },
+  "spot": {
+    "tr": "",
+    "en": "",
+    "ar": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Ulaşım",
+    "en": "Getting here",
+    "ar": "الوصول"
+  },
+  "keyword": {
+    "tr": "iletişim",
+    "en": "contact",
+    "ar": "اتصال"
+  },
+  "text": {},
+  "update": "2026-11-16T22:34:33.505Z",
+  "date": "2026-10-30"
+}
