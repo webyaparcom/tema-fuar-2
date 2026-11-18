@@ -2,7 +2,9 @@
   "name": {
     "tr": "Fuar",
     "en": "The fair",
-    "ar": "المعرض"
+    "ar": "المعرض",
+    "de": "Messe",
+    "ru": "Ярмарка"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Fuar rakamları ve sponsorlar (kurgusal).",
     "en": "Fair figures and sponsors (fictional).",
-    "ar": "أرقام المعرض والرعاة (افتراضي)."
+    "ar": "أرقام المعرض والرعاة (افتراضي).",
+    "de": "Messen Zahlen und Sponsoren (fiktiv).",
+    "ru": "Показатели ярмарки и спонсоры (вымышленные)."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Fuar",
     "en": "The fair",
-    "ar": "المعرض"
+    "ar": "المعرض",
+    "de": "Messe",
+    "ru": "Ярмарка"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T22:34:33.493Z",

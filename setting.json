@@ -4,12 +4,16 @@
   "description": {
     "tr": "Lonca Expo: 15–18 Nisan 2027’de Gaziantep’te Ev & Yaşam Fuarı — mobilya, aydınlatma, ev tekstili ve akıllı ev; geri sayım, gün gün program ve biletler. Demo site; içerik kurgusaldır.",
     "en": "Lonca Expo: the Home & Living Fair in Gaziantep on 15–18 April 2027 — furniture, lighting, home textiles and smart home; countdown, day-by-day programme and tickets. Demo site; content is fictional.",
-    "ar": "لونجا إكسبو: معرض البيت والمعيشة في غازي عنتاب من 15 إلى 18 أبريل 2027 — أثاث وإضاءة ومنسوجات منزلية ومنزل ذكي؛ عدّ تنازلي وبرنامج يومي وتذاكر. موقع تجريبي؛ المحتوى افتراضي."
+    "ar": "لونجا إكسبو: معرض البيت والمعيشة في غازي عنتاب من 15 إلى 18 أبريل 2027 — أثاث وإضاءة ومنسوجات منزلية ومنزل ذكي؛ عدّ تنازلي وبرنامج يومي وتذاكر. موقع تجريبي؛ المحتوى افتراضي.",
+    "de": "Lonca Expo: Die Messe für Zuhause & Wohnen in Gaziantep vom 15.–18. April 2027 – Möbel, Beleuchtung, Heimtextilien und Smart Home; Countdown, Tagesprogramm und Tickets. Demo-Seite; Inhalte sind fiktiv.",
+    "ru": "Lonca Expo: Ярмарка «Дом и жизнь» в Газиантепе 15–18 апреля 2027 г. — мебель, освещение, домашний текстиль и умный дом; обратный отсчет, программа по дням и билеты. Демо-сайт; контент вымышлен."
   },
   "keyword": {
     "tr": "fuar, ev ve yaşam fuarı, mobilya fuarı, fuar bileti, fuar programı, Gaziantep",
     "en": "trade fair, home and living fair, furniture fair, fair tickets, fair programme, Gaziantep",
-    "ar": "معرض، معرض البيت والمعيشة، معرض الأثاث، تذاكر المعرض، برنامج المعرض، غازي عنتاب"
+    "ar": "معرض، معرض البيت والمعيشة، معرض الأثاث، تذاكر المعرض، برنامج المعرض، غازي عنتاب",
+    "de": "Messe, Wohnen-und-Leben-Messe, Möbelmesse, Messeticket, Messeprogramm, Gaziantep",
+    "ru": "выставка, выставка «Дом и жизнь», мебельная выставка, билет на выставку, программа выставки, Газиантеп"
   },
   "category": "Kurumsal",
   "name": "Lonca Expo",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

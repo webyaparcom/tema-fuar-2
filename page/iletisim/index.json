@@ -2,7 +2,9 @@
   "name": {
     "tr": "Ulaşım",
     "en": "Getting here",
-    "ar": "الوصول"
+    "ar": "الوصول",
+    "de": "Anfahrt",
+    "ru": "Проезд"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Bilet gişesi, servis, otopark ve harita.",
     "en": "Box office, shuttle, parking and map.",
-    "ar": "شباك التذاكر والحافلة وموقف السيارات والخريطة."
+    "ar": "شباك التذاكر والحافلة وموقف السيارات والخريطة.",
+    "de": "Ticketschalter, Shuttle, Parkplatz und Lageplan.",
+    "ru": "Касса, трансфер, парковка и карта."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Ulaşım",
     "en": "Getting here",
-    "ar": "الوصول"
+    "ar": "الوصول",
+    "de": "Anfahrt",
+    "ru": "Проезд"
   },
   "keyword": {
     "tr": "iletişim",
     "en": "contact",
-    "ar": "اتصال"
+    "ar": "اتصال",
+    "de": "Kontakt",
+    "ru": "контакты"
   },
   "text": {},
   "update": "2026-11-16T22:34:33.505Z",
