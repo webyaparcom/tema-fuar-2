@@ -3,17 +3,23 @@
   "name": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "description": {
     "tr": "Misyonumuz",
     "en": "Our mission",
-    "ar": "مهمتنا"
+    "ar": "مهمتنا",
+    "de": "Unsere Mission",
+    "ru": "Наша миссия"
   },
   "keyword": {
     "tr": "Misyon",
     "en": "mission, our mission, corporate responsibility",
-    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "path": "misyon",
   "icon": "flag",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Misyonumuz</h2>\n<p>Üreticiyle ziyaretçiyi dört günlük, düzenli ve erişilebilir bir fuarda buluşturmak.</p>",
     "en": "<h2>Our mission</h2>\n<p>To bring makers and visitors together at a well-run, accessible four-day fair.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>جمع المصنّعين والزوار في معرض منظّم ومتاح لمدة أربعة أيام.</p>"
+    "ar": "<h2>مهمتنا</h2>\n<p>جمع المصنّعين والزوار في معرض منظّم ومتاح لمدة أربعة أيام.</p>",
+    "de": "<h2>Unsere Mission</h2>\n<p>Hersteller und Besucher auf einer gut organisierten, barrierefreien Vier-Tage-Messe zusammenbringen.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Собрать производителей и посетителей на хорошо организованной, доступной четырёхдневной ярмарке.</p>"
   },
   "title": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "date": "2026-11-16T22:34:33.128Z",
   "update": "2026-11-16T22:34:33.527Z",

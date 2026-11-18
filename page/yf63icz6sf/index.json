@@ -3,17 +3,23 @@
   "name": {
     "tr": "Program",
     "en": "Programme",
-    "ar": "البرنامج"
+    "ar": "البرنامج",
+    "de": "Programm",
+    "ru": "Расписание"
   },
   "description": {
     "tr": "Gün gün fuar programı ve bilet türleri (kurgusal).",
     "en": "Day-by-day fair programme and ticket types (fictional).",
-    "ar": "برنامج المعرض يومًا بيوم وأنواع التذاكر (افتراضي)."
+    "ar": "برنامج المعرض يومًا بيوم وأنواع التذاكر (افتراضي).",
+    "de": "Tagesprogramm der Messe und Ticketarten (fiktiv).",
+    "ru": "Программа выставки по дням и типы билетов (вымышленное)."
   },
   "keyword": {
     "tr": "fuar programı, bilet",
     "en": "fair programme, tickets",
-    "ar": "برنامج المعرض، تذاكر"
+    "ar": "برنامج المعرض، تذاكر",
+    "de": "Messeprogramm, Tickets",
+    "ru": "Программа ярмарки, билеты"
   },
   "path": "hizmetler",
   "icon": "event",
@@ -33,7 +39,9 @@
   "title": {
     "tr": "Program",
     "en": "Programme",
-    "ar": "البرنامج"
+    "ar": "البرنامج",
+    "de": "Programm",
+    "ru": "Расписание"
   },
   "date": "2026-11-16T22:34:33.465Z",
   "update": "2026-11-16T22:34:33.481Z"
